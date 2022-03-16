@@ -21,7 +21,6 @@ function handleFormSubmit(e) {
         grind,
         ratio,
         note,
-        git
         id: Date.now(),
     }
     console.log(newRecipe);
